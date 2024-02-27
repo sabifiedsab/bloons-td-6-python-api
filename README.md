@@ -2,7 +2,9 @@
 A library that makes working with the BTD6 API easier
 
 ## Installation
-Just download the [BTD6API](/BTD6API.py) script, and you're good to go.
+1. Download the [BTD6API](/BTD6API.py) script
+2. Install the library *requests* with `pip install requests`
+3. Make some beautiful creations!
 
 ## Features
 A user friendly API to get information about the latest race events, boss events, user profile information and more!
